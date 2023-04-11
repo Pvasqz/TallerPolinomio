@@ -1,0 +1,5 @@
+Para ejecutar desde la línea de comandos es necesario ingresar: 
+g++ funciones.h funciones.cpp main.cpp -o polinomio.exe
+
+Ya en la consola se deberá ingresar el polinomio entre”” y considerando el símbolo “^” como elevado. Aquí un ejemplo:
+./taller. Exe “2x^4+5x^3-3x^2+1x^1-7”
