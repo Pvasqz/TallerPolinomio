@@ -1,3 +1,6 @@
+Integrantes: Pablo Vásquez - Jean Pierre Agurto - Ian Subaique 
+
+
 Para ejecutar desde la línea de comandos es necesario ingresar: 
 g++ funciones.h funciones.cpp main.cpp -o polinomio.exe
 
